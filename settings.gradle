@@ -1,0 +1,3 @@
+rootProject.name = 'hibernate_demo_gradle'
+include 'untitled'
+
