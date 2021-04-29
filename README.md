@@ -1,8 +1,6 @@
 # hibernate_demo_gradle
 Пример приложения с Hibernate для IntelliJ IDEA на Java (сборщик GRADLE)
 
-![screenshot](screenshot.png)
-
 https://mvnrepository.com
 
 build.gradle
@@ -37,3 +35,5 @@ test {
     useJUnitPlatform()
 }
 ```
+
+![screenshot](screenshot.png)
